@@ -1,3 +1,5 @@
+import linearsearch.LinearSearch;
+
 void main() {
     // --- Test the SLOW one ---
     long startTimeSlow = System.nanoTime();
